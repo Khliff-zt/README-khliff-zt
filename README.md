@@ -10,7 +10,7 @@
 
 ## 👩‍💻 About Me
 
-- **Name:** Cleven (she/her) — _aka_ **Khliff-zt**
+- **Name:** Cleven  — _aka_ **Khliff-zt**
 - **Role:** Full Stack Web Developer & Cyber Expert
 - **Tech Stack:** Django, HTML, CSS, JavaScript
 - 🛡️ Basics in Ethical Hacking
