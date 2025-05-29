@@ -2,7 +2,8 @@
 <!-- Profile README for Cleven (Khliff-zt) -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5BE0D9&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Cleven+%28Khliff-zt%29+%F0%9F%91%8B;Full+Stack+Web+Developer+%26+Cyber+Expert;Always+learning+and+building+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5BE0D9&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Cleven+%28Khliff-zt%29+%F0%9F%91%8B;
+    [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Web+Developer+%26+Cyber+Expert)](https://git.io/typing-svg)" />
 </p>
 
 ---
