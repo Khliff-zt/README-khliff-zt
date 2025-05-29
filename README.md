@@ -53,5 +53,5 @@ _This section is ready for your favorite projects! Add them here:_
 </p>
 
 <p align="center">
-  <b>Let's build something amazing together!</b>
+  <b>Always learning and building 🚀</b>
 </p>
